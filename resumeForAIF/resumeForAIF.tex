@@ -7,8 +7,18 @@
 \addtolength{\voffset}{-3.5em}
 \addtolength{\textheight}{7em}
 
-\quote{``Find what you love and let it kill you''
---- Charles Bukowski}
+
+
+
+
+\quote{``Find what you love and let it kill you'' --- Charles Bukowski}
+\let\originalrecomputecvlengths\recomputecvlengths
+\renewcommand*{\recomputecvlengths}{%
+\originalrecomputecvlengths%
+\setlength{\quotewidth}{0.8\textwidth}}
+
+
+
 
 \name{James}{Harbour}
 \title{Resume}
@@ -32,18 +42,22 @@
 
 \begin{center}
   I am a second year mathematics and computer science double major at the University of Virginia with a comprehensive undergraduate and graduate-level mathematics background. My primary interests are in operator algerbas and noncommutative geometry. \\
-\vspace{1.5em}
-  Following my PhD, I plan to pivot towards industry with a focus on quantitative finance and algorithmic trading.
+\vspace{1.0em}
+  Following my PhD, I plan to pivot towards the financial sector with a focus on quantitative finance and algorithmic trading.
 \end{center}
 
 \section{Mathematics Experience}
 
 \begin{itemize}
   \item \textbf{pre - UVA}\quad Through concurrent dual enrollment at the University of South Florida during high school, I completed the majority of courses in a mathematics major as well as a variety of graduate-level courses.
-  \item \textbf{UVA - 1st Year}\quad Took the same mathematics courseload as UVA's 1st year mathematics PhD students (plus more courses). Passed the analysis (real \& complex) PhD qualifying exams.
-  \item \textbf{UVA - 2nd Year}\quad Spent the summer at UVA doing a one-on-one reading course with one of my professors. Living expenses were covered by a \$2000 grant from the mathematics department. Currently I am taking three 2nd year PhD-level mathematics courses. I am also a member of the UVA operator theory seminar for graduate students
+  \item \textbf{UVA - 1st Year}\quad Took the same mathematics courseload as UVA's 1st year mathematics PhD students (and more). Passed the analysis (real \& complex) PhD qualifying exams.
+  \item \textbf{UVA - 2nd Year}\quad Spent the summer at UVA doing a one-on-one reading course with one of my professors. Living expenses were covered by a \$2000 grant from the mathematics department. Currently, I am taking three 2nd year PhD-level mathematics courses. I am also a member of the UVA operator theory seminar for graduate students
 \end{itemize}
 
+\section{Financial Experience}
+\begin{itemize}
+  \item \textbf{Member of UVA's Alternative Investment Fund}\quad An investment club managing a portfolio of $ \$50,000 $ AUM. Rigorous selection process with multiple interviews and a $ 3\% $ acceptance rate. This club includes an extensive training program for new members. 
+\end{itemize}
 
 \section{Programming Experience}
 \textbf{Proficient In}\quad Java, C++, Python, Javascript (see my github above) \\
@@ -68,10 +82,10 @@
 
   % TODO
 
-  \item Echols Scholar, University of Virginia
-  \begin{itemize}
-    \item Selected for Honors Program (5\% of incoming freshman), waives general education requirements.
-  \end{itemize}
+ % \item Echols Scholar, University of Virginia
+ % \begin{itemize}
+ %   \item Selected for Honors Program (5\% of incoming freshman), waives gen-ed requirements.
+ % \end{itemize}
   
 \end{itemize}
 
