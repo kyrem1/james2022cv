@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664417197 "cv2022.tex" "cv2022.pdf" "cv2022" 1664417198
+["pdflatex"] 1672330582 "cv2022.tex" "cv2022.pdf" "cv2022" 1672330582
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1650179560 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1650179560 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1650179560 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -180,11 +180,11 @@
   "/usr/share/texmf-dist/tex/latex/url/url.sty" 1650183167 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1650183167 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662517633 4278762 af3ac1370db81a450c1118eabf1fe718 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662517624 2927658 4c7efcd3babe36e9796bc983e4057dd8 ""
-  "cv2022.aux" 1664417197 1324 5db0e3720b305d4469104ed60aee7fb8 "pdflatex"
-  "cv2022.out" 1664417197 1369 e214ed806f156490eeb051bd090f619f "pdflatex"
-  "cv2022.tex" 1664417196 10503 a5564df5700bccbfa88829a8625c0f0c ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669683407 4278762 af3ac1370db81a450c1118eabf1fe718 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1669683400 2927667 a867d31eaf6839be3dd39ae7de0f1045 ""
+  "cv2022.aux" 1672330582 1324 5db0e3720b305d4469104ed60aee7fb8 "pdflatex"
+  "cv2022.out" 1672330582 1369 e214ed806f156490eeb051bd090f619f "pdflatex"
+  "cv2022.tex" 1672330581 10482 dcf4554f31b68a3f4951e476e2f30317 ""
   (generated)
   "cv2022.aux"
   "cv2022.log"
