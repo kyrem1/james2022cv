@@ -1003,6 +1003,7 @@ INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd
 INPUT /usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd

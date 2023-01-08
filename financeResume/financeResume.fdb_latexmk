@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664418279 "financeResume.tex" "financeResume.pdf" "financeResume" 1664418280
+["pdflatex"] 1673206939 "financeResume.tex" "financeResume.pdf" "financeResume" 1673206939
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1650183167 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1650179560 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1650179560 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -29,6 +29,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1650179560 1380 b39147d6e404af58d6e49fb6d0a0daae ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0regular.tfm" 1650179560 1132 8aee78c25f591abde3c9ce09e694423f ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm" 1650179560 1204 3c27bf26105e0c1f2d31dba92f1c652d ""
+  "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1650179560 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1650179560 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1650183167 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1650183167 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -186,11 +187,11 @@
   "/usr/share/texmf-dist/tex/latex/url/url.sty" 1650183167 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1650183167 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1662517633 4278762 af3ac1370db81a450c1118eabf1fe718 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1662517624 2927658 4c7efcd3babe36e9796bc983e4057dd8 ""
-  "financeResume.aux" 1664418280 1102 b01ef82d22b704450773ec65fe95dc18 "pdflatex"
-  "financeResume.out" 1664418280 592 a73292c491a042859e6af96dbd8047fb "pdflatex"
-  "financeResume.tex" 1664418279 3615 fe760be364707e7d4fd020fcc5871219 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669683407 4278762 af3ac1370db81a450c1118eabf1fe718 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1669683400 2927667 a867d31eaf6839be3dd39ae7de0f1045 ""
+  "financeResume.aux" 1673206939 1102 b01ef82d22b704450773ec65fe95dc18 "pdflatex"
+  "financeResume.out" 1673206939 592 a73292c491a042859e6af96dbd8047fb "pdflatex"
+  "financeResume.tex" 1673206939 3614 e62951058c437d3769d290b176f468a8 ""
   (generated)
   "financeResume.aux"
   "financeResume.log"
