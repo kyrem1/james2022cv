@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1673206939 "financeResume.tex" "financeResume.pdf" "financeResume" 1673206939
+["pdflatex"] 1676336601 "financeResume.tex" "financeResume.pdf" "financeResume" 1676336602
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1650183167 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1650179560 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1650179560 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -189,9 +189,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669683407 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1669683400 2927667 a867d31eaf6839be3dd39ae7de0f1045 ""
-  "financeResume.aux" 1673206939 1102 b01ef82d22b704450773ec65fe95dc18 "pdflatex"
-  "financeResume.out" 1673206939 592 a73292c491a042859e6af96dbd8047fb "pdflatex"
-  "financeResume.tex" 1673206939 3614 e62951058c437d3769d290b176f468a8 ""
+  "financeResume.aux" 1676336602 1102 b01ef82d22b704450773ec65fe95dc18 "pdflatex"
+  "financeResume.out" 1676336602 592 a73292c491a042859e6af96dbd8047fb "pdflatex"
+  "financeResume.tex" 1676336601 3614 fd7fe78ef9e001769e95adc4cc9657fc ""
   (generated)
   "financeResume.aux"
   "financeResume.log"

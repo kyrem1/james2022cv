@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1672330582 "cv2022.tex" "cv2022.pdf" "cv2022" 1672330582
+["pdflatex"] 1675221223 "cv2023.tex" "cv2023.pdf" "cv2023" 1675221224
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1650179560 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1650179560 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1650179560 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -24,9 +24,11 @@
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1650179560 1380 b39147d6e404af58d6e49fb6d0a0daae ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0regular.tfm" 1650179560 1132 8aee78c25f591abde3c9ce09e694423f ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1regular.tfm" 1650179560 1204 3c27bf26105e0c1f2d31dba92f1c652d ""
+  "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1650179560 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/share/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1650179560 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1650183167 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1650183167 36281 c355509802a035cadc5f15869451dcee ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1650183167 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1650183167 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1650183167 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb" 1650183167 24416 36515493f76659302880e2604105b074 ""
@@ -182,11 +184,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1669683407 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1669683400 2927667 a867d31eaf6839be3dd39ae7de0f1045 ""
-  "cv2022.aux" 1672330582 1324 5db0e3720b305d4469104ed60aee7fb8 "pdflatex"
-  "cv2022.out" 1672330582 1369 e214ed806f156490eeb051bd090f619f "pdflatex"
-  "cv2022.tex" 1672330581 10482 dcf4554f31b68a3f4951e476e2f30317 ""
+  "cv2023.aux" 1675221224 1625 c41cf31586d0b15f82d34a1e4878815d "pdflatex"
+  "cv2023.out" 1675221224 1767 3595529bc5eee759c43ada83879f357d "pdflatex"
+  "cv2023.tex" 1675221222 12083 41870c0e680f0a04970179caee6a6e08 ""
   (generated)
-  "cv2022.aux"
-  "cv2022.log"
-  "cv2022.out"
-  "cv2022.pdf"
+  "cv2023.aux"
+  "cv2023.log"
+  "cv2023.out"
+  "cv2023.pdf"
