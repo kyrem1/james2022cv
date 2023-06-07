@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.4)  24 APR 2023 00:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.6.2)  6 JUN 2023 23:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -667,27 +667,27 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 64.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}] [2] [3] (./cv2023.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}] [2] [3] [4] (./cv2023.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
 
 Package rerunfilecheck Info: File `cv2023.out' has not changed.
-(rerunfilecheck)             Checksum: 28DF2179F6F90AEF61092FC703E6A875;1611.
+(rerunfilecheck)             Checksum: 7EEBD31D1ECA66DD0C6CE3330D8C6B43;1656.
  ) 
 Here is how much of TeX's memory you used:
- 25955 strings out of 476025
- 497917 string characters out of 5796533
- 1881388 words of memory out of 5000000
+ 25960 strings out of 476025
+ 497967 string characters out of 5796533
+ 1882388 words of memory out of 5000000
  45873 multiletter control sequences out of 15000+600000
- 524869 words of font info for 114 fonts, out of 8000000 for 9000
+ 525042 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,122p,1003b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 129i,12n,122p,1003b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb>
-Output written on cv2023.pdf (3 pages, 177399 bytes).
+Output written on cv2023.pdf (4 pages, 178667 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 140 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 12 named destinations out of 1000 (max. 500000)
  38981 words of extra memory for PDF output out of 42996 (max. 10000000)
 
