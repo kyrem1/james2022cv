@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.4.4)  24 APR 2023 03:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.21)  28 SEP 2023 23:20
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **financeResume.tex
@@ -529,7 +529,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 22.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 22.
- (./financeResume.aux)
+ (tmp/financeResume.aux)
 \openout1 = `financeResume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -598,15 +598,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(76.78688pt, 460.72124pt, 76.78688pt)
-* v-part:(T,H,B)=(79.49698pt, 596.22748pt, 119.24553pt)
+* h-part:(L,W,R)=(61.42856pt, 491.43787pt, 61.42857pt)
+* v-part:(T,H,B)=(63.59662pt, 635.97841pt, 95.39496pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=460.72124pt
-* \textheight=672.87767pt
-* \oddsidemargin=4.51689pt
-* \evensidemargin=4.51689pt
-* \topmargin=-29.77301pt
+* \textwidth=491.43787pt
+* \textheight=712.6286pt
+* \oddsidemargin=-10.84143pt
+* \evensidemargin=-10.84143pt
+* \topmargin=-45.67337pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -625,7 +625,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 22.
-(./financeResume.out) (./financeResume.out)
+(tmp/financeResume.out) (tmp/financeResume.out)
 \@outlinefile=\write4
 \openout4 = `financeResume.out'.
 
@@ -634,17 +634,17 @@ Package hyperref Info: Link coloring OFF on input line 22.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
+(Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 24.
+(Font)              <5> on input line 23.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 23.
  (/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 24.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 23.
  (/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 24.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 23.
  (/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 24.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 23.
 \makecvheadpicturebox=\box70
 \makecvheaddetailswidth=\skip99
 \makecvheadpicturewidth=\skip100
@@ -652,20 +652,20 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not a
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <34> not available
-(Font)              size <24.88> substituted on input line 24.
+(Font)              size <24.88> substituted on input line 23.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 37.
+(Font)              <10.95> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 37.
+(Font)              <8> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 37.
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 73.
+(Font)              <6> on input line 36.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 81.
 (/usr/share/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
@@ -675,27 +675,27 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./financeResume.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (tmp/financeResume.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
 
 Package rerunfilecheck Info: File `financeResume.out' has not changed.
-(rerunfilecheck)             Checksum: C40506A69C1A478039E7C62602D1E3D5;806.
+(rerunfilecheck)             Checksum: 099A83015551A16B704E930BEF9C4B3E;894.
  ) 
 Here is how much of TeX's memory you used:
- 25975 strings out of 476025
- 498765 string characters out of 5796533
- 1886388 words of memory out of 5000000
- 45893 multiletter control sequences out of 15000+600000
- 524746 words of font info for 113 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 129i,11n,122p,1010b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25960 strings out of 477985
+ 498659 string characters out of 5840058
+ 1888388 words of memory out of 5000000
+ 45641 multiletter control sequences out of 15000+600000
+ 524097 words of font info for 104 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 129i,11n,122p,1010b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on financeResume.pdf (1 page, 168967 bytes).
+Output written on tmp/financeResume.pdf (1 page, 169952 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 41021 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 41029 words of extra memory for PDF output out of 42996 (max. 10000000)
 
