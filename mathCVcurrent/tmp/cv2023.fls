@@ -1019,11 +1019,11 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmssi10.tfm
 INPUT tmp/cv2023.aux
 INPUT tmp/cv2023.out
 INPUT tmp/cv2023.out

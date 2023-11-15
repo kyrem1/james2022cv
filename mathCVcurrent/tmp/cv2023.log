@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.7.20)  19 AUG 2023 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.21)  15 NOV 2023 00:28
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -663,31 +663,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 26.
-LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 64.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}] [2] [3] [4] (tmp/cv2023.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}]
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 78.
+ [2] [3] [4] (tmp/cv2023.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 9.12pt have occurred.
 
 Package rerunfilecheck Info: File `cv2023.out' has not changed.
-(rerunfilecheck)             Checksum: 7EEBD31D1ECA66DD0C6CE3330D8C6B43;1656.
+(rerunfilecheck)             Checksum: ACB03C6B323DC86D16A00B2F4A3164E6;1762.
  ) 
 Here is how much of TeX's memory you used:
- 25961 strings out of 477985
- 498003 string characters out of 5840058
- 1882388 words of memory out of 5000000
- 45620 multiletter control sequences out of 15000+600000
- 525042 words of font info for 116 fonts, out of 8000000 for 9000
+ 25967 strings out of 477985
+ 498059 string characters out of 5840058
+ 1887388 words of memory out of 5000000
+ 45621 multiletter control sequences out of 15000+600000
+ 525172 words of font info for 118 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 129i,12n,122p,1003b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,122p,1003b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb>
-Output written on tmp/cv2023.pdf (4 pages, 178667 bytes).
+Output written on tmp/cv2023.pdf (4 pages, 181546 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 12 named destinations out of 1000 (max. 500000)
- 38981 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 13 named destinations out of 1000 (max. 500000)
+ 38989 words of extra memory for PDF output out of 42996 (max. 10000000)
 

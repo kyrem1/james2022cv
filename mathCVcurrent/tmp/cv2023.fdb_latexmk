@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1692479050 "cv2023.tex" "tmp/cv2023.pdf" "cv2023" 1692479051 0
+["pdflatex"] 1700026104 "cv2023.tex" "tmp/cv2023.pdf" "cv2023" 1700026105 0
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1689853683 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1689853683 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1689853683 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -182,11 +182,11 @@
   "/usr/share/texmf-dist/tex/latex/url/url.sty" 1689853683 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1689853683 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1689910661 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1689910612 6768055 afcbfba261e1204a809e129acdebc333 ""
-  "cv2023.tex" 1692479041 12088 8014e4ce8c66c662e5d35e8c8e2ebecb ""
-  "tmp/cv2023.aux" 1692479051 1437 51e3358405fa5346fbf2451e4971928e "pdflatex"
-  "tmp/cv2023.out" 1692479051 1656 7eebd31d1eca66dd0c6ce3330d8c6b43 "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1695336084 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1695336072 6768057 b2a51b3a4f4276bfc987fb77a12244da ""
+  "cv2023.tex" 1700026104 13896 5782ba11165e84715fd04be694453f7d ""
+  "tmp/cv2023.aux" 1700026105 1532 0ab720e9dc91a89d3bfe53e08b3c9f24 "pdflatex"
+  "tmp/cv2023.out" 1700026105 1762 acb03c6b323dc86d16a00b2f4a3164e6 "pdflatex"
   (generated)
   "tmp/cv2023.aux"
   "tmp/cv2023.log"
