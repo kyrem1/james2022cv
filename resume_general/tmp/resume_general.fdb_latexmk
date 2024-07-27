@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1701200187 "resume_general.tex" "tmp/resume_general.pdf" "resume_general" 1701200187 0
+["pdflatex"] 1704067472 "resume_general.tex" "tmp/resume_general.pdf" "resume_general" 1704067472 0
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1689853683 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1689853683 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1689853683 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -183,11 +183,11 @@
   "/usr/share/texmf-dist/tex/latex/url/url.sty" 1689853683 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1689853683 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1695336084 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1695336072 6768057 b2a51b3a4f4276bfc987fb77a12244da ""
-  "resume_general.tex" 1701200118 4693 4fa629debb3a2102bbf847912c3c08c5 ""
-  "tmp/resume_general.aux" 1701200187 1197 9c1879ff5589978e7ae4c6bc86405af0 "pdflatex"
-  "tmp/resume_general.out" 1701200187 783 c2255004e297dd761e2bfb797517d803 "pdflatex"
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1702939538 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1702939526 6768057 93e266961deaa884856f3e9775a9009f ""
+  "resume_general.tex" 1704067471 4685 7a9636a8fe21ba3451dddd9decc9edaa ""
+  "tmp/resume_general.aux" 1704067472 1197 9c1879ff5589978e7ae4c6bc86405af0 "pdflatex"
+  "tmp/resume_general.out" 1704067472 783 c2255004e297dd761e2bfb797517d803 "pdflatex"
   (generated)
   "tmp/resume_general.aux"
   "tmp/resume_general.log"
