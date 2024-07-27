@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.6.5)  27 JUL 2024 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.6.5)  27 JUL 2024 19:43
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -680,15 +680,15 @@ Package rerunfilecheck Info: File `resume_general.out' has not changed.
 (rerunfilecheck)             Checksum: C2255004E297DD761E2BFB797517D803;783.
  ) 
 Here is how much of TeX's memory you used:
- 25761 strings out of 476076
- 491047 string characters out of 5793776
+ 25759 strings out of 476076
+ 491029 string characters out of 5793776
  1969187 words of memory out of 5000000
  47376 multiletter control sequences out of 15000+600000
- 568939 words of font info for 104 fonts, out of 8000000 for 9000
+ 568888 words of font info for 103 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  129i,11n,129p,1011b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb>
-Output written on tmp/.aux/resume_general.pdf (1 page, 169864 bytes).
+Output written on tmp/.aux/resume_general.pdf (1 page, 170658 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  90 compressed objects within 1 object stream

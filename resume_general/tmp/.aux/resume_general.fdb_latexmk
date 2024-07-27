@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1722122761.29888 "resume_general.tex" "tmp/resume_general.pdf" "resume_general" 1722122762.17322 0
+["pdflatex"] 1722123815.62276 "resume_general.tex" "tmp/resume_general.pdf" "resume_general" 1722123816.4751 0
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1716849630 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1716849630 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1716849630 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -183,9 +183,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1717628532.58033 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1717628424 7113017 dc4159c11f58025380489bc85402abae ""
-  "resume_general.tex" 1722122760.86284 6050 8312cc44eb2b9af301664843a52f5104 ""
-  "tmp/.aux/resume_general.aux" 1722122762.06284 805 9bc37bad6348f6f1414e61a1816f8a6a "pdflatex"
-  "tmp/.aux/resume_general.out" 1722122762.06284 783 c2255004e297dd761e2bfb797517d803 "pdflatex"
+  "resume_general.tex" 1722123815.4708 6011 2d09a84cba15ac6416f717a0c6bd227f ""
+  "tmp/.aux/resume_general.aux" 1722123816.37747 805 9bc37bad6348f6f1414e61a1816f8a6a "pdflatex"
+  "tmp/.aux/resume_general.out" 1722123816.3808 783 c2255004e297dd761e2bfb797517d803 "pdflatex"
   (generated)
   "tmp/.aux/resume_general.aux"
   "tmp/.aux/resume_general.log"
